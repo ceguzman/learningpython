@@ -1,5 +1,5 @@
 class ClassOne:
-    """Cllas One"""
+    """Class One"""
 
     class _ClassTwo:
         """Class Two"""
