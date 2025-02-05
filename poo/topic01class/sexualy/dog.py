@@ -6,3 +6,6 @@ class Dog(Animal):
 
     def reproduce(self) -> str:
         return 'The dog reproduces sexually'
+
+    def barks(self) -> str:
+        return 'The Dog braks'
