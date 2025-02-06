@@ -20,6 +20,7 @@ class Marker:
 
     def __clean_ink(self) -> None:
         """Private Method"""
+        return "'It's clean the ink"
 
     def __str__(self):
         return f'This marker is from the brand {self.__brand} and the color is {self.__color}'

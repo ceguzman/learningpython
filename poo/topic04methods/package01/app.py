@@ -1,4 +1,4 @@
-from poo.topic04methods.marker import Marker
+from poo.topic04methods.package01.marker import Marker
 
 
 def main():
