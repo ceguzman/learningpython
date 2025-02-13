@@ -1,7 +1,7 @@
 Programación orientada a objetos
 
 1. Clase(abstractas, concretas) sustantivos singulares, UpperCamelCase
-2. Objeto loweCamelCase
+    - Objeto loweCamelCase
 3. visibilidad(+ public, - private, ~package, #protected)
     - Atributo primitivo o referencia, lowerCameCase
 4. Metodo(+ public, - private, ~package, #protected) acciones verbos, lowerCamelCase
@@ -10,7 +10,9 @@ Programación orientada a objetos
 6. constructor: sirve para crear los objetos
     - constructor generico esta de forma invisible a menos que se cree un contructor con parametros
     - constructor con parametros
-11. sobrecarga de constructores (puede tener mu muchos constructores con firmas diferentes)
+ sobrecarga de constructores (puede tener mu muchos constructores con firmas diferentes)
+
+
 12. sobrecarga de metodos
 13. atributos estaticos
 14. atributos final
