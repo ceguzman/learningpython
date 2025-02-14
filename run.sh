@@ -17,4 +17,6 @@
 # python -m poo.topic06constructor.constructor_parameters.app
 # python -m poo.topic06constructor.constructor_parameters_default.app
 # python -m poo.topic06constructor.constructor_overload.list_overload.app
-python -m poo.topic06constructor.constructor_overload.dictionary_overload.app
+# python -m poo.topic06constructor.constructor_overload.dictionary_overload.app
+
+python -m poo.topic07contructorinheritance.bad_practice.app
