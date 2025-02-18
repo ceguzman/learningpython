@@ -20,4 +20,7 @@
 # python -m poo.topic06constructor.constructor_overload.dictionary_overload.app
 
 # python -m poo.topic07contructorinheritance.bad_practice.app
-python -m poo.topic07contructorinheritance.good_practice.app
+# python -m poo.topic07contructorinheritance.good_practice.app
+# python -m poo.topic07contructorinheritance.multiple_inheritance.app
+
+python -m poo.topic08multipleinheritance.app
