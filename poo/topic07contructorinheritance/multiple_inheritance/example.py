@@ -23,7 +23,3 @@ class C(A, B):
 #         A.__init__(self)
 #         B.__init__(self)
 #         print("Constructor de C")
-
-
-
-obj = C()
