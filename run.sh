@@ -1,3 +1,5 @@
+#*********** poo ******************
+
 # python -m poo.topic01class.app
 
 # python -m poo.topic02visibility.package01.app
@@ -23,4 +25,10 @@
 # python -m poo.topic07contructorinheritance.good_practice.app
 # python -m poo.topic07contructorinheritance.multiple_inheritance.app
 
-python -m poo.topic08multipleinheritance.app
+# python -m poo.topic08multipleinheritance.app
+
+
+#*********** websocket ******************
+
+python -m websocket.topic01basicsocket.server
+python -m websocket.topic01basicsocket.client
