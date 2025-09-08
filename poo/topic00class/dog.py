@@ -8,8 +8,8 @@ class Dog:
         self.name = name
         self.breed = breed
 
-    def bark(self):
-        return 'Woof! Woof!'
+    def bark(self) -> str:
+        return f'{self.name} Woof! Woof!'
 
-    def walk(self):
+    def walk(self) -> str:
         return f'{self.name} is walking.'
