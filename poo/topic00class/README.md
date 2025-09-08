@@ -14,5 +14,6 @@ classDiagram
     }
 
     App --> Dog : Association
+    App ..> Dog: Creation
 
-    style App fill:#434CF0
+    style App fill:
