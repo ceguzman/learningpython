@@ -12,7 +12,4 @@ classDiagram
         +main() None
     }
 
-    Class01 --> App
-    Class01 ..> App
-
-
+    App --> Class01
