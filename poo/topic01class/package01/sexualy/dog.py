@@ -1,4 +1,4 @@
-from poo.topic01class.animal import Animal
+from poo.topic01class.package01.animal import Animal
 
 
 class Dog(Animal):

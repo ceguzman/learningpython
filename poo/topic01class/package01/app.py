@@ -1,6 +1,6 @@
-from poo.topic01class.animal import Animal
-from poo.topic01class.sexualy.dog import Dog
-from poo.topic01class.asexualy.sponge import Sponge
+from poo.topic01class.package01.animal import Animal
+from poo.topic01class.package01.sexualy.dog import Dog
+from poo.topic01class.package01.asexualy.sponge import Sponge
 
 
 def main():
