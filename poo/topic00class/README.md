@@ -1,4 +1,4 @@
-__Diagrma de clases__
+__Diagrama de clases__
 
 ```mermaid
 classDiagram
@@ -14,6 +14,5 @@ classDiagram
     }
 
     App --> Dog : Association
-    App ..> Dog: Creation
 
     style App fill:
