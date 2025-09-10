@@ -1,8 +1,9 @@
 #*********** poo ******************
 
-# python -m poo.topic00class.app
+python -m poo.topic00class.app
 
-python -m poo.topic01class.app
+
+#python -m poo.topic01class.app
 
 # python -m poo.topic02visibility.package01.app
 # python -m poo.topic02visibility.package02.app

@@ -3,6 +3,7 @@ __Diagrama de clases__
 ```mermaid
 classDiagram
     class Dog {
+        -str espiecie
         -str name
         -str breed
         +bark() str
