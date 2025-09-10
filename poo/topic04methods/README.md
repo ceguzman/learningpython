@@ -12,4 +12,4 @@ classDiagram
         +main() None
     }
 
-    App --> Class01
+    App --> Class01: Association
