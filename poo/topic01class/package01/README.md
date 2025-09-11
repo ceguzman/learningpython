@@ -2,26 +2,33 @@ __Diagrma de clases__
 
 ```mermaid
 classDiagram
-    Animal <|-- Duck
-    Animal <|-- Fish
-    Animal <|-- Zebra
-    Animal : +int age
-    Animal : +String gender
-    Animal : +isMammal()
-    Animal : +mate()
+  class Animal {
+    <<Abstract>>
+    +eat() str
+    +die() str
+    +reproduce() None*
+  }
 
-    class Duck {
-      +String beakColor
-      +swim()
-      +quack()
+  namespace asexualy {
+    class Sponge {
+      +str specie
+      +reproduce() str
     }
+  }
 
-    class Fish {
-      -int sizeInFeet
-      -canEat()
+  namespace sexualy {
+    class Dog {
+      +str specie
+      +reproduce() str
+      +barks() str
     }
+  }
 
-    class Zebra {
-      +bool is_wild
-      +run()
-    }
+  class App {
+    +main()
+  }
+
+  Animal <|-- Dog : Inheritance
+  Animal <|-- Sponge : Inheritance
+  Dog <-- App: Association
+  Sponge <-- App: Association

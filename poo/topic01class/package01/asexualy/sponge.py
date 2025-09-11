@@ -5,5 +5,5 @@ class Sponge(Animal):
 
     specie = 'Porifera'
 
-    def reproduce(self):
+    def reproduce(self) -> str:
         return 'The Sponge reproduces asexualy'
