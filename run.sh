@@ -3,7 +3,7 @@
 # python -m poo.topic00class.app
 
 #python -m poo.topic01class.app
-python -m poo.topic01class.package02.app
+# python -m poo.topic01class.package02.app
 
 # python -m poo.topic02visibility.package01.app
 # python -m poo.topic02visibility.package02.app
@@ -29,6 +29,8 @@ python -m poo.topic01class.package02.app
 # python -m poo.topic07contructorinheritance.multiple_inheritance.app
 
 # python -m poo.topic08multipleinheritance.app
+
+python -m poo.topic09staticatrributes.app
 
 
 #*********** websocket ******************
