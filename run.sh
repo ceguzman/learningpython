@@ -30,7 +30,9 @@
 
 # python -m poo.topic08multipleinheritance.app
 
-python -m poo.topic09staticatrributes.app
+# python -m poo.topic09staticatrributes.app
+
+python -m poo.topic10final.app
 
 
 #*********** websocket ******************
