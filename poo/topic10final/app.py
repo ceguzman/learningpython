@@ -1,4 +1,4 @@
-from poo.topic10final.atrributes import Config
+from poo.topic10final.typingfinal import Config
 
 
 def main():
