@@ -22,12 +22,11 @@ Programación orientada a objetos
 9. Atributos final
     - metodos final que no se pueden sobrescribir
     - clases finales: nadie puede heredar de ella
+10. sobreeescritura de metodos ✅
 
-18. sobreeescritura de metodos
-20. metodos finales: metodos que o se puedes sobreescribir
-21. dependencias
-22. alta cohesión bajo acoplamiento
 24. Polimorfismo
+
+22. alta cohesión bajo acoplamiento
 25. casting, autocasting
 26. Wrappers (boxing, unboxing, autounboxing)
 28. Realiziación

@@ -32,7 +32,10 @@
 
 # python -m poo.topic09staticatrributes.app
 
-python -m poo.topic10final.app
+# python -m poo.topic10final.app
+
+# python -m poo.topic11methodsoverwrite.package01.app
+python -m poo.topic11methodsoverwrite.package02.app
 
 
 #*********** websocket ******************
